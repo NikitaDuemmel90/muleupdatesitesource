@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/MuLE_1.0.0.202208031547.jar" id="MuLE" version="1.0.0.202208031547">
+      <category name="MuLE"/>
+   </feature>
+   <category-def name="MuLE" label="MuLE"/>
+</site>
